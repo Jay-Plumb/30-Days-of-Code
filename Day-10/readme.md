@@ -29,7 +29,7 @@ Print a single base-10 integer denoting the maximum number of consecutive 1's in
 
 ## Explanation
 
-Sample Case 1: 
+Sample Case: 
 The binary representation of 5 is 101, so the maximum number of consecutive 1's is 1.
 
 
