@@ -20,7 +20,7 @@ static void levelOrder(Node root){
               
             if (tree.right != null) {       
                 queue.add(tree.right);
-             }
-         }
-     }
+            }
+        }
+    }
 }
